@@ -56,4 +56,4 @@ This project is licensed under the [MIT License](LICENSE). Use and distribute th
 
 ## Contact
 
-For questions or collaboration, open an issue or contact Abdullah Aamir at [p229371@pwr.nu.edu.pk](mailto:p229371@pwr.nu.edu.pk).
+For questions or collaboration, open an issue or contact Muhammad Abdullah at [p229371@pwr.nu.edu.pk](mailto:p229371@pwr.nu.edu.pk).
