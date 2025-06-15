@@ -10,7 +10,7 @@ This repository hosts the research paper "AI in Psychiatric Care: Early Detectio
 - **Date**: June 2025
 - **Focus**: Leveraging AI (machine learning, deep learning, NLP) to analyze speech, text, physiological signals, and neuroimaging for early detection of disorders like depression and anxiety, with personalized intervention strategies.
 
-As the leader of this research, I (M Abdullah Aamir) coordinated the team, oversaw the integration of diverse data sources, and ensured the paper addressed ethical challenges and future directions. The paper is compiled into `AI_Psychiatric_Care_Research_Paper.pdf`.
+As responsible for feature scaling and feature extraction, I applied various scaling and extraction techniques on the datasets collected by the collection team to make the datasets ready to be fed to our AI models.The paper is compiled into `AI_Psychiatric_Care_Research_Paper.pdf`.
 
 ## Files
 
@@ -36,7 +36,7 @@ This MVP is in the early stages, focusing on integrating NLP techniques and simp
 
 ## Contributing
 
-Contributions are welcome! As the leader, I encourage:
+Contributions are welcome! I encourage:
 1. Fork the repository.
 2. Create a branch (`git checkout -b feature-branch`).
 3. Commit changes (`git commit -m "Description of changes"`).
@@ -56,4 +56,4 @@ This project is licensed under the [MIT License](LICENSE). Use and distribute th
 
 ## Contact
 
-For questions or collaboration, open an issue or contact Abdullah Aamir at [p229235@pwr.nu.edu.pk](mailto:p229235@pwr.nu.edu.pk).
+For questions or collaboration, open an issue or contact Abdullah Aamir at [p229371@pwr.nu.edu.pk](mailto:p229371@pwr.nu.edu.pk).
